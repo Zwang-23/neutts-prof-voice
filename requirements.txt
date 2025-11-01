@@ -8,6 +8,5 @@ phonemizer>=3.2.0
 neucodec>=0.0.4
 resemble-perth>=1.0.0
 pydub>=0.25.1
-llama-cpp-python
 requests>=2.31.0
 pydub>=0.25.1
