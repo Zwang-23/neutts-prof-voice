@@ -70,7 +70,7 @@ Start the web UI with:
 python launcher.py
 ```
 
-The script prints a local URL (for example http://127.0.0.1:5000). Open it in your browser, paste or load a text file, and click the UI controls to generate audio.
+The script prints a local URL (for example http://127.0.0.1:5001). Open it in your browser, paste or load a text file, and click the UI controls to generate audio.
 
 Examples and files
 
